@@ -22,14 +22,14 @@ Data respecter.
 - Double Minor in Statistics, Computer Programming
 
 #### Certification
-- Data Science
-- Machine Learning Fundamentals
-- Databases
+- Data Science (add what organization gave you this certification)
+- Machine Learning Fundamentals (add what organization gave you this certification)
+- Databases (add what organization gave you this certification)
 
 
 ## Work Experience
 
-#### Network Operations Internship `May 2023 - July 2023`
+#### Network Operations Internship `May 2023 - July 2023` (Is this meant to be in 2023??)
 
 __Charter Spectrum__; San Marcos, TX
 - Optimized network performance through investigating and interpreting common sets of key data points by basic statistical analyzation
@@ -55,7 +55,6 @@ __Church of Jesus Christ of Latter-day Saints__
 
 - SQL, R, Python (pandas, numpy, altair, matplotlib, sci-kit)
 - Working proficiency in Spanish
-- Strong leadership and communication skills
 
 <!-- ### Footer
 
